@@ -2,7 +2,7 @@
   "name": "taylor-lea",
   "version": "1.0.0",
   "description": "This is for a recruitment exam",
-  "main": "server.js",
+  "main": "web.js",
   "dependencies": {
     "ejs": "^2.3.4",
     "express": "^4.13.3"
@@ -12,7 +12,7 @@
     "test": "echo \"Error no test specified\" && exit 1"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "0.12.7"
   },
   "author": "Taylor Lea",
   "license": "MIT",
