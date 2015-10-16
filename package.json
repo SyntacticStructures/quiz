@@ -2,7 +2,7 @@
   "name": "squares_and_genders",
   "version": "1.0.0",
   "description": "This is for a recruitment exam",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "ejs": "^2.3.4",
     "express": "^4.13.3"
