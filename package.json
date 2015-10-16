@@ -1,0 +1,20 @@
+{
+  "name": "squares_and_genders",
+  "version": "1.0.0",
+  "description": "This is for a recruitment exam",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error no test specified\" && exit 1"
+  },
+  {
+  "engines": {
+    "node": "0.10.x"
+  },
+  "author": "Taylor Lea",
+  "license": "MIT"
+}
